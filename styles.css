@@ -1,0 +1,32 @@
+
+
+
+
+
+
+.gameboard {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 454px;
+    height: 454px;
+    border: 2px solid black;
+}
+
+
+
+.field {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+
+
+.field:hover {
+    background-color: rgba(0, 0, 0, 0.1) ;
+}
+
+
+
+ 
