@@ -14,7 +14,7 @@ Vanilla JS Tic Tac Toe project I made from the Odin Project Curriculum.<br/>
 ## 💡 Features:<br/>
 Play against CPU bot<br/>
 Play with a second person<br/>
-Mobile responsive
+Mouse controlled game
 
 ## 🛠️ Built with:<br/>
 HTML<br/>
